@@ -2,72 +2,72 @@
   "name": "Seoul",
   "nameKr": "서울",
   "duration": "2 Nights · 3 Days",
-  "cities": "서울 도심·궁궐·홍대·명동·한강·이태원·강남",
+  "cities": "Seoul City Center · Palaces · Hongdae · Myeongdong · Han River · Itaewon · Gangnam",
   "priceMin4": "~450,000원",
   "priceMin20": "~220,000원",
   "accommodation": "3-star or above hotel",
   "transport": {
-    "from": "인천공항",
-    "method": "호텔 픽업",
-    "duration": "약 1시간",
-    "cost": "포함"
+    "from": "Incheon Airport",
+    "method": "Hotel Pickup",
+    "duration": "Approx. 1 Hour",
+    "cost": "Included"
   },
   "itinerary": [
     {
-      "theme": "도착 · 명동 · N서울타워",
+      "theme": "Arrival · Myeongdong · N Seoul Tower",
       "schedule": [
-        { "time": "오후", "place": "인천공항 픽업 → 호텔", "description": "전용 차량 호텔 이동 (약 1시간). 체크인 후 휴식. 그룹 5~50인 전세버스 또는 미니밴 배정." },
-        { "time": "저녁", "place": "명동 (明洞 · Myeongdong)", "description": "K-뷰티 쇼핑 천국 · 올리브영·이니스프리·라네즈 등 코스메틱 거리. 매장 10:30~22:00 운영. 노점 음식 16:00~23:00. 할랄 식당: Busan Jib (할랄 BBQ), Kampungku (말레이시아 음식·기도실 있음), Gurkha (인도·네팔 할랄). 그룹 팁: 20인 이상은 2~3개 소그룹으로 나눠 쇼핑 후 집결. 포토스팟: 명동 메인 거리 네온사인 배경, 명동성당 야경." },
-        { "time": "야간", "place": "N서울타워 (N Seoul Tower · 남산타워)", "description": "남산 케이블카 또는 버스로 이동. 월~금 12:00~22:00, 주말 11:00~22:00 (마지막 입장 21:30). 서울 도심 360° 야경 파노라마. 소요시간 약 1.5~2시간. 포토스팟: 전망대 유리창 앞 야경, 사랑의 자물쇠 광장, 남산 둘레길 서울 시내 뷰. 그룹 팁: 케이블카는 30인 이상 시 대기 길어짐 — 버스 이동 권장. 연중무휴 365일 운영." }
+        { "time": "Afternoon", "place": "Incheon Airport Pickup → Hotel", "description": "Private vehicle transfer to hotel (approx. 1 hour). Rest after check-in. Charter bus or minivan assigned for groups of 5–50 persons." },
+        { "time": "Evening", "place": "Myeongdong (명동)", "description": "K-Beauty shopping paradise · Olive Young, Innisfree, Laneige and other cosmetics street. Stores open 10:30–22:00. Street food stalls 16:00–23:00. Halal restaurants: Busan Jib (Halal BBQ), Kampungku (Malaysian food · prayer room available), Gurkha (Indian & Nepali Halal). Group tip: Groups of 20+ should split into 2–3 subgroups for shopping and then regroup. Photo spots: Myeongdong main street neon signs, Myeongdong Cathedral night view." },
+        { "time": "Night", "place": "N Seoul Tower (N Seoul Tower · Namsan Tower)", "description": "Travel by Namsan cable car or bus. Mon–Fri 12:00–22:00, weekends 11:00–22:00 (last entry 21:30). 360° panoramic night view of Seoul city center. Duration approx. 1.5–2 hours. Photo spots: night view from observatory glass window, Love Lock Plaza, Namsan trail Seoul city view. Group tip: Cable car wait times increase for groups of 30+ — bus transfer recommended. Open 365 days a year." }
       ]
     },
     {
-      "theme": "궁궐 · 한복 · 전통문화 · 시장",
+      "theme": "Palaces · Hanbok · Traditional Culture · Markets",
       "schedule": [
-        { "time": "오전", "place": "한복 대여 → 경복궁 (景福宮 · Gyeongbokgung Palace)", "description": "09:00 한복 대여소 도착 (경복궁역 4번 출구 도보 50m). 한복 착용 시 경복궁 입장 무료! 09:00~18:00 운영 (계절별 상이), 화요일 휴궁. 영어 가이드 투어 11:00·13:30·15:30 (10인 이상 사전예약 필수, 최대 30인). 소요시간 약 1.5~2시간. 수정전·근정전·경회루 필수 관람. 포토스팟: 근정전 정면, 경회루 연못 반영, 향원정 다리. 그룹 팁: 한복 대여 시 대형 그룹은 사전 예약 필수 — 50인 시 2개 한복점 분산 이용 권장." },
-        { "time": "오전", "place": "국립고궁박물관 (National Palace Museum of Korea)", "description": "경복궁 남문 옆 위치. 무료 입장. 10:00~18:00 (수·토 21:00까지 야간 개방). 조선 왕실 유물·어보·보물 전시. 소요시간 약 40~60분. 에어컨 완비 — 여름·겨울 쉼터로 활용. 그룹 팁: 가이드 없이 자유 관람 추천, 20인 이상 시 2개 팀으로 분산." },
-        { "time": "오후", "place": "북촌한옥마을 (北村韓屋마을 · Bukchon Hanok Village)", "description": "경복궁에서 도보 15분. 무료 입장. 100년 전통 한옥 골목 600채. 관람시간 10:00~17:00 (2025년 3월부터 17시~10시 관광 제한). 소요시간 약 1~1.5시간. 포토스팟: 북촌로 11길 정상 (남산타워 배경 한옥 골목), 북촌 8경 포인트. 그룹 팁: 주민 거주 지역이므로 조용히 이동, 대형 그룹은 10인 소그룹으로 분산. 한복 입고 방문하면 인생샷 가능!" },
-        { "time": "오후", "place": "인사동 (仁寺洞 · Insadong)", "description": "북촌에서 도보 10분. 무료 거리. 전통 공예·한국 차·갤러리·쌈지길 복합문화공간. 쌈지길 10:30~20:30. 소요시간 약 1~1.5시간. 할랄 참고: 인사동 내 채식 비빔밥·두부 요리 가능, 사전 예약 시 할랄 한식 체험 가능. 포토스팟: 쌈지길 나선형 계단, 인사동 거리 한글 간판." },
-        { "time": "저녁", "place": "광장시장 (廣藏市場 · Gwangjang Market)", "description": "인사동에서 지하철 1정거장. 무료 입장 (음식 별도). 09:00~23:00 운영. 한국 최고(最古) 전통시장 (1905년 개장). 할랄 주의: 대부분 돼지고기·비할랄 육류 사용 — 무슬림 방문객은 야채전·잡채(고기 없는 것)·번데기빵·호떡 등 식물성 메뉴 선택 권장. 사전에 가이드가 할랄 친화 포장마차 안내. 소요시간 약 1~1.5시간. 포토스팟: 포장마차 골목 전경, 빈대떡 굽는 모습." },
-        { "time": "야간", "place": "청계천 (清溪川 · Cheonggyecheon Stream)", "description": "광장시장에서 도보 5분. 무료 입장. 24시간 개방. 5.8km 도심 인공 하천 야간 산책로. LED 조명 설치 구간 감상. 겨울(12~1월) 서울빛초롱축제 — 청계천 전구간 대형 등(燈) 전시 무료. 소요시간 약 30~45분 산책. 포토스팟: 광통교 위 야경, 청계광장 스프링 조형물, 수표교 LED 터널. 그룹 팁: 산책 코스이므로 대형 그룹도 자유 이동 가능." }
+        { "time": "Morning", "place": "Hanbok Rental → Gyeongbokgung Palace (景福宮 · Gyeongbokgung Palace)", "description": "Arrive at hanbok rental shop at 09:00 (50m walk from Gyeongbokgung Station Exit 4). Free admission to Gyeongbokgung when wearing hanbok! Open 09:00–18:00 (varies by season), closed Tuesdays. English guided tours at 11:00, 13:30 & 15:30 (advance reservation required for groups of 10+, max 30 persons). Duration approx. 1.5–2 hours. Must-see: Sujeongjeon, Geunjeongjeon, and Gyeonghoeru. Photo spots: Geunjeongjeon front, Gyeonghoeru pond reflection, Hyangwonjeong bridge. Group tip: Advance reservation required for large groups renting hanbok — groups of 50 should use 2 rental shops." },
+        { "time": "Morning", "place": "National Palace Museum of Korea", "description": "Located next to Gyeongbokgung South Gate. Free admission. Open 10:00–18:00 (until 21:00 on Wed & Sat for evening opening). Exhibits of Joseon royal artifacts, royal seals, and treasures. Duration approx. 40–60 minutes. Air-conditioned throughout — ideal rest stop in summer and winter. Group tip: Free exploration without a guide recommended; split into 2 teams for groups of 20+." },
+        { "time": "Afternoon", "place": "Bukchon Hanok Village (北村韓屋마을 · Bukchon Hanok Village)", "description": "15-minute walk from Gyeongbokgung. Free admission. 600 traditional hanok alleyhouses with 100 years of history. Visiting hours 10:00–17:00 (tourism restricted 17:00–10:00 from March 2025). Duration approx. 1–1.5 hours. Photo spots: top of Bukchon-ro 11-gil (hanok alley with Namsan Tower backdrop), Bukchon 8 scenic spots. Group tip: This is a residential area — move quietly; large groups should split into subgroups of 10. Visiting in hanbok makes for life-worthy photos!" },
+        { "time": "Afternoon", "place": "Insadong (仁寺洞 · Insadong)", "description": "10-minute walk from Bukchon. Free street. Traditional crafts, Korean tea, galleries, and Ssamziegil multi-cultural complex. Ssamziegil open 10:30–20:30. Duration approx. 1–1.5 hours. Halal note: vegetarian bibimbap and tofu dishes available in Insadong; halal Korean food experience possible with advance booking. Photo spots: Ssamziegil spiral staircase, Korean signboards along Insadong street." },
+        { "time": "Evening", "place": "Gwangjang Market (廣藏市場 · Gwangjang Market)", "description": "One subway stop from Insadong. Free entry (food purchased separately). Open 09:00–23:00. Korea's oldest traditional market (established 1905). Halal note: most stalls use pork or non-halal meat — Muslim visitors are recommended to choose plant-based options such as vegetable pancake (yachae-jeon), japchae (no meat), silkworm bread, and hotteok. Guide will direct guests to halal-friendly stalls in advance. Duration approx. 1–1.5 hours. Photo spots: panoramic view of food stall alley, bindaetteok (mung bean pancake) being cooked." },
+        { "time": "Night", "place": "Cheonggyecheon Stream (清溪川 · Cheonggyecheon Stream)", "description": "5-minute walk from Gwangjang Market. Free admission. Open 24 hours. 5.8km urban artificial stream night walking trail. Enjoy sections with LED lighting installations. Winter (Dec–Jan) Seoul Lantern Festival — large lantern displays along the entire Cheonggyecheon stream, free admission. Duration approx. 30–45 minutes of walking. Photo spots: night view from Gwangtonggyo Bridge, Cheonggye Plaza spring sculpture, Supyogyo LED tunnel. Group tip: As a walking trail, large groups can move freely." }
       ]
     },
     {
-      "theme": "현대 서울 · K-컬처 · 한강",
+      "theme": "Modern Seoul · K-Culture · Han River",
       "schedule": [
-        { "time": "오전", "place": "롯데월드타워 서울스카이 (Lotte World Tower Seoul Sky)", "description": "잠실역 직결. 10:00~21:00 (마지막 입장 20:00). 123층 555m 한국 최고층 전망대 · 스카이워크 · 투명 바닥 전망. 소요시간 약 1~1.5시간. 포토스팟: 투명 유리 바닥, 스카이데크 서울 전경, 석촌호수 뷰. 그룹 팁: 20인 이상 사전 단체 예약 시 할인 가능 — 입장 대기 줄이기 위해 오픈 시간 10:00 도착 권장. 선택추가: 롯데월드 어드벤처 (실내 테마파크) — 실내이므로 비·눈 올 때 대안으로 적합. 일~목 10:00~21:00, 금·토 10:00~22:00." },
-        { "time": "오후", "place": "코엑스 별마당 도서관 (COEX Starfield Library)", "description": "삼성역 직결. 무료 입장. 10:00~22:00 연중무휴. 13m 높이 대형 서가 · 70,000권 장서 · 인스타그램 성지. 코엑스몰 내 쇼핑·식당 연계. 소요시간 약 30~60분 (쇼핑 포함 시 1.5시간). 포토스팟: 중앙 아트리움 서가 전경 (광각 렌즈 추천), 2층 발코니 내려다보기. 그룹 팁: 그룹 자유시간 부여 후 푸드코트 집결 추천. 할랄 식당: 코엑스몰 내 할랄 가이 (태국 음식), 비비고 (비빔밥·두부 메뉴 무슬림 프렌들리)." },
-        { "time": "오후", "place": "홍대 · 연남동 (弘大 · Hongdae & Yeonnam-dong)", "description": "홍대입구역 9번 출구. 무료 거리. 거리 공연 주말 오후~저녁 활발 (걷고 싶은 거리 · 홍대 놀이터 앞). K-팝 댄스 크루·비트박서·라이브 페인팅. 독립 카페·빈티지숍·편집숍. 연남동 경의선숲길 산책로 인기. 소요시간 약 1.5~2시간. 할랄 식당: 무슬림 프렌들리 레스토랑 다수 (홍대 이슬람 식당, 할랄 치킨 전문점). 포토스팟: 홍대 걷고 싶은 거리 벽화, 경의선숲길 카페 거리, 연트럴파크. 그룹 팁: 저녁 18시 이전 방문 시 한산, 거리 공연은 금·토 19~22시 최고조." },
-        { "time": "저녁", "place": "한강공원 · 한강 유람선 (漢江 · Han River Park & Cruise)", "description": "여의도 한강공원 또는 반포 한강공원. 무료 입장 (24시간). 편의점 치킨 배달 가능 (할랄 대안: 사전 주문 할랄 도시락 준비). 반포대교 달빛무지개분수 4~10월 운영 (20:00·20:30·21:00). 소요시간: 공원 산책 1시간 + 유람선 1시간. 포토스팟: 반포대교 무지개 분수 야경, 유람선에서 63빌딩·여의도 스카이라인, 석양 한강 뷰. 그룹 팁: 유람선 단체 예약 시 할인 — 40인 이상 전세 크루즈 가능. 이후 공항 이동 또는 다음 모듈 연결." }
+        { "time": "Morning", "place": "Lotte World Tower Seoul Sky", "description": "Directly connected to Jamsil Station. Open 10:00–21:00 (last entry 20:00). 123rd floor, 555m — Korea's tallest observatory · Skywalk · transparent floor viewing. Duration approx. 1–1.5 hours. Photo spots: transparent glass floor, Skydeck Seoul panorama, Seokchon Lake view. Group tip: Group discounts available with advance reservation for 20+ persons — arriving at opening time 10:00 recommended to reduce wait. Optional add-on: Lotte World Adventure (indoor theme park) — suitable alternative on rainy or snowy days. Sun–Thu 10:00–21:00, Fri–Sat 10:00–22:00." },
+        { "time": "Afternoon", "place": "COEX Starfield Library", "description": "Directly connected to Samsung Station. Free admission. Open 10:00–22:00, open year-round. 13m-high grand bookshelf · 70,000 volumes · Instagram landmark. Shopping and dining connected within COEX Mall. Duration approx. 30–60 minutes (1.5 hours including shopping). Photo spots: central atrium bookshelf panorama (wide-angle lens recommended), looking down from 2nd floor balcony. Group tip: Recommended to give group free time then regroup at food court. Halal restaurants: Halal Guy inside COEX Mall (Thai food), Bibigo (bibimbap & tofu menu, Muslim-friendly)." },
+        { "time": "Afternoon", "place": "Hongdae & Yeonnam-dong (弘大 · Hongdae & Yeonnam-dong)", "description": "Hongik University Station Exit 9. Free street. Street performances active on weekend afternoons and evenings (Walkway Street · Hongdae Playground area). K-pop dance crews, beatboxers, live painting. Independent cafes, vintage shops, and concept stores. Gyeongui Line Forest Trail in Yeonnam-dong popular. Duration approx. 1.5–2 hours. Halal restaurants: many Muslim-friendly restaurants (Hongdae Islamic restaurant, halal chicken specialty shops). Photo spots: Hongdae walkway street murals, Gyeongui Line Forest Trail cafe street, Yeontral Park. Group tip: Less crowded if visiting before 18:00; street performances peak Fri–Sat 19:00–22:00." },
+        { "time": "Evening", "place": "Han River Park & Cruise (漢江 · Han River Park & Cruise)", "description": "Yeouido Han River Park or Banpo Han River Park. Free admission (24 hours). Convenience store chicken delivery available (halal alternative: prepare halal lunchboxes with advance order). Banpo Bridge Moonlight Rainbow Fountain operates Apr–Oct (20:00, 20:30, 21:00). Duration: 1 hour park walk + 1 hour cruise. Photo spots: Banpo Bridge rainbow fountain at night, 63 Building & Yeouido skyline from cruise, sunset Han River view. Group tip: Group discounts for cruise reservations — charter cruise available for 40+ persons. Transfer to airport or continue to next module afterwards." }
       ]
     }
   ],
   "attractions": [
-    { "name": "경복궁 (Gyeongbokgung)", "fee": "₩3,000 (단체 ₩2,400)", "feature": "조선 제1궁궐 · 한복 착용 시 무료 입장 · 09:00~18:00 · 화요일 휴궁 · 영어 가이드 11:00/13:30/15:30" },
-    { "name": "국립고궁박물관", "fee": "무료", "feature": "조선 왕실 유물·보물 전시 · 10:00~18:00 (수·토 21:00) · 에어컨 완비" },
-    { "name": "북촌한옥마을 (Bukchon)", "fee": "무료", "feature": "600채 전통 한옥 골목 · 10:00~17:00 관람 권장 · 북촌로 11길 정상 포토스팟" },
-    { "name": "인사동 거리 (Insadong)", "fee": "무료", "feature": "전통 공예·차·갤러리 · 쌈지길 복합문화공간 · 꽃차 체험 가능" },
-    { "name": "광장시장 (Gwangjang Market)", "fee": "무료 (음식 별도)", "feature": "1905년 개장 한국 최고(最古) 전통시장 · 빈대떡·마약김밥·육회 · 09:00~23:00" },
-    { "name": "N서울타워 전망대", "fee": "₩21,000", "feature": "남산 360° 야경 파노라마 · 케이블카 왕복 ₩17,000 · 월~금 12:00~22:00 · 연중무휴" },
-    { "name": "롯데월드타워 서울스카이", "fee": "₩31,000", "feature": "123층 555m 한국 최고층 전망대 · 스카이워크 · 투명 유리바닥 · 10:00~21:00" },
-    { "name": "코엑스 별마당 도서관", "fee": "무료", "feature": "13m 높이 대형 서가 · 70,000권 · 인스타그램 성지 · 10:00~22:00" },
-    { "name": "동대문디자인플라자 (DDP)", "fee": "무료 (전시 별도)", "feature": "자하 하디드 건축 · 미래형 디자인 랜드마크 · 10:00~20:00 · 야간 LED 장미 포토존" },
-    { "name": "롯데월드 어드벤처 (실내)", "fee": "₩61,000", "feature": "세계 최대 실내 테마파크 · 놀이기구·퍼레이드 · 일~목 10:00~21:00 · 비 오는 날 대안" },
-    { "name": "하이브 인사이트 (HYBE Insight)", "fee": "₩22,000", "feature": "BTS·세븐틴 K-팝 체험관 · 11:00~21:00 · 월요일 휴무 · 사전 온라인 예약 필수 (14세 이상)" },
-    { "name": "한복 체험 대여", "fee": "₩15,000~25,000", "feature": "경복궁 앞 한복 대여 2~4시간 · 한복 착용 시 궁궐 무료 입장 · 그룹 사전 예약 권장" },
-    { "name": "한강 유람선 야경 크루즈", "fee": "₩18,000~25,000", "feature": "여의도 출발 1시간 크루즈 · 반포대교 무지개분수 · 40인+ 전세 가능" },
-    { "name": "DMZ 비무장지대 투어", "fee": "₩55,000~", "feature": "한반도 분단 현장 · 판문점·도라산역 · 풀데이 투어 6~8시간 · 사전 여권 정보 필요" },
-    { "name": "가로수길 (Garosu-gil)", "fee": "무료", "feature": "강남 트렌디 카페·부티크 거리 · 은행나무 가로수 · 신사역 8번 출구" }
+    { "name": "Gyeongbokgung Palace (경복궁)", "fee": "₩3,000 (Group ₩2,400)", "feature": "Joseon Dynasty's principal palace · Free entry when wearing hanbok · 09:00–18:00 · Closed Tuesdays · English guide tours 11:00/13:30/15:30" },
+    { "name": "National Palace Museum of Korea (국립고궁박물관)", "fee": "Free", "feature": "Joseon royal artifacts and treasures exhibit · 10:00–18:00 (until 21:00 on Wed & Sat) · Fully air-conditioned" },
+    { "name": "Bukchon Hanok Village (Bukchon)", "fee": "Free", "feature": "600 traditional hanok alleyhouses · Visiting 10:00–17:00 recommended · Photo spot at top of Bukchon-ro 11-gil" },
+    { "name": "Insadong Street (Insadong)", "fee": "Free", "feature": "Traditional crafts, tea & galleries · Ssamziegil multi-cultural complex · Flower tea tasting available" },
+    { "name": "Gwangjang Market", "fee": "Free (food purchased separately)", "feature": "Korea's oldest traditional market est. 1905 · Bindaetteok, mayak gimbap, yukhoe · 09:00–23:00" },
+    { "name": "N Seoul Tower Observatory", "fee": "₩21,000", "feature": "Namsan 360° night view panorama · Cable car round trip ₩17,000 · Mon–Fri 12:00–22:00 · Open year-round" },
+    { "name": "Lotte World Tower Seoul Sky", "fee": "₩31,000", "feature": "123rd floor 555m Korea's tallest observatory · Skywalk · Transparent glass floor · 10:00–21:00" },
+    { "name": "COEX Starfield Library", "fee": "Free", "feature": "13m-high grand bookshelf · 70,000 volumes · Instagram landmark · 10:00–22:00" },
+    { "name": "Dongdaemun Design Plaza (DDP)", "fee": "Free (exhibitions extra)", "feature": "Zaha Hadid architecture · Futuristic design landmark · 10:00–20:00 · Night LED rose photo zone" },
+    { "name": "Lotte World Adventure (Indoor)", "fee": "₩61,000", "feature": "World's largest indoor theme park · Rides & parades · Sun–Thu 10:00–21:00 · Alternative on rainy days" },
+    { "name": "HYBE Insight", "fee": "₩22,000", "feature": "BTS & Seventeen K-pop experience center · 11:00–21:00 · Closed Mondays · Advance online reservation required (ages 14+)" },
+    { "name": "Hanbok Experience Rental", "fee": "₩15,000–25,000", "feature": "Hanbok rental in front of Gyeongbokgung for 2–4 hours · Free palace entry when wearing hanbok · Advance group reservation recommended" },
+    { "name": "Han River Night View Cruise", "fee": "₩18,000–25,000", "feature": "1-hour cruise departing from Yeouido · Banpo Bridge rainbow fountain · Charter available for 40+ persons" },
+    { "name": "DMZ Demilitarized Zone Tour", "fee": "₩55,000~", "feature": "Korean Peninsula division site · Panmunjom & Dorasan Station · Full-day tour 6–8 hours · Passport information required in advance" },
+    { "name": "Garosu-gil", "fee": "Free", "feature": "Gangnam trendy cafe and boutique street · Ginkgo tree-lined avenue · Sinsa Station Exit 8" }
   ],
   "food": [
-    { "name": "할랄 한식 BBQ (Busan Jib)", "place": "명동 · 할랄 인증 한식 바비큐·비빔밥", "price": "₩15,000~30,000" },
-    { "name": "Kampungku (말레이시아 할랄)", "place": "명동 · 나시르막·르당 아얌 · 기도실 완비", "price": "₩12,000~20,000" },
-    { "name": "이태원 할랄 한식 (Eid 식당)", "place": "이태원 서울중앙성원 인근 · 한국인 무슬림 운영 할랄 한식", "price": "₩15,000~25,000" },
-    { "name": "명동 거리 음식 (할랄 옵션)", "place": "명동 노점 · 어묵·호떡·계란빵 (돼지 성분 없는 메뉴 선택)", "price": "₩3,000~10,000" },
-    { "name": "광장시장 식물성 메뉴", "place": "야채전·잡채·호떡·마약김밥 (할랄 주의사항 가이드 안내)", "price": "₩5,000~15,000" },
-    { "name": "코엑스몰 할랄 가이", "place": "코엑스몰 내 태국 할랄 레스토랑", "price": "₩12,000~18,000" },
-    { "name": "홍대 할랄 치킨", "place": "홍대 이슬람 식당 · 할랄 치킨·카레 전문", "price": "₩12,000~20,000" },
-    { "name": "한우 코스 요리 (특식)", "place": "강남·명동 한우 전문점 · 할랄 도축 한우 사전 주문 가능", "price": "₩80,000~150,000" }
+    { "name": "Halal Korean BBQ (Busan Jib)", "place": "Myeongdong · Halal-certified Korean BBQ and bibimbap", "price": "₩15,000–30,000" },
+    { "name": "Kampungku (Malaysian Halal)", "place": "Myeongdong · Nasi lemak, rendang ayam · Prayer room available", "price": "₩12,000–20,000" },
+    { "name": "Itaewon Halal Korean Food (Eid Restaurant)", "place": "Near Seoul Central Mosque, Itaewon · Halal Korean food run by Korean Muslims", "price": "₩15,000–25,000" },
+    { "name": "Myeongdong Street Food (Halal Options)", "place": "Myeongdong street stalls · Fish cake, hotteok, egg bread (choose pork-free options)", "price": "₩3,000–10,000" },
+    { "name": "Gwangjang Market Plant-Based Menu", "place": "Vegetable pancake, japchae, hotteok, mayak gimbap (guide will advise on halal-friendly options)", "price": "₩5,000–15,000" },
+    { "name": "COEX Mall Halal Guy", "place": "Thai halal restaurant inside COEX Mall", "price": "₩12,000–18,000" },
+    { "name": "Hongdae Halal Chicken", "place": "Hongdae Islamic restaurant · Halal chicken and curry specialty", "price": "₩12,000–20,000" },
+    { "name": "Korean Beef (Hanwoo) Course Meal (Special Dinner)", "place": "Gangnam & Myeongdong hanwoo specialty restaurants · Halal-slaughtered hanwoo available with advance order", "price": "₩80,000–150,000" }
   ],
-  "note": "서울 모듈은 모든 조합의 시작점으로 권장합니다. 인천공항 입국 기준 첫 지역으로 가장 적합. 스리랑카 무슬림 그룹 대응: 이태원 서울중앙성원(Seoul Central Mosque) 인근 할랄 식당 밀집, 명동·홍대에도 할랄 인증 식당 증가 추세. 기도 시간 안내 및 인근 기도실(Kampungku 등) 사전 확인 필수. 경복궁 화요일 휴궁 주의, 북촌 17시 이후 관광 제한(벌금 ₩100,000) 주의. 대형 그룹(20인+)은 한복 대여·유람선·전망대 모두 사전 단체 예약 시 할인 및 대기시간 단축."
+  "note": "The Seoul module is recommended as the starting point for all itinerary combinations. It is the most suitable first destination for arrivals via Incheon Airport. For Sri Lankan Muslim groups: halal restaurants are concentrated near Seoul Central Mosque in Itaewon, and halal-certified restaurants are also increasing in Myeongdong and Hongdae. Essential to confirm prayer times and nearby prayer rooms (such as Kampungku) in advance. Note: Gyeongbokgung is closed on Tuesdays; tourism in Bukchon is restricted after 17:00 (fine ₩100,000). Large groups (20+ persons) can receive discounts and shorter wait times by making advance group reservations for hanbok rental, cruise, and observatory."
 }

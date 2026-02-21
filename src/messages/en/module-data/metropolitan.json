@@ -2,64 +2,64 @@
   "name": "Metropolitan",
   "nameKr": "수도권",
   "duration": "2 Nights · 3 Days",
-  "cities": "수원·인천·가평·남이섬",
+  "cities": "Suwon · Incheon · Gapyeong · Nami Island",
   "priceMin4": "~380,000원",
   "priceMin20": "~180,000원",
   "accommodation": "3-star or above hotel",
   "transport": {
-    "from": "서울",
-    "method": "전세버스",
-    "duration": "30~60분",
-    "cost": "포함"
+    "from": "Seoul",
+    "method": "Charter Bus",
+    "duration": "30~60 min",
+    "cost": "Included"
   },
   "itinerary": [
     {
-      "theme": "수원 역사 · 민속촌",
+      "theme": "Suwon History · Folk Village",
       "schedule": [
-        { "time": "오전 09:00", "place": "서울/공항 출발", "description": "전세버스로 수원 이동 (약 40분)" },
-        { "time": "오전 10:00", "place": "수원화성 (화성행궁 포함)", "description": "유네스코 세계유산 성곽 투어 · 09:00~18:00 (3~10월) · 약 2시간 소요 · 수문장 교대식 매 정시 10~16시" },
-        { "time": "오후 13:00", "place": "한국민속촌 (한국민속촌)", "description": "조선시대 생활 재현 테마파크 · 09:30~18:00 · 약 3시간 소요 · 단체 20인+ 할인 가능 · 전통 혼례·농악 공연 관람 추천" },
-        { "time": "오후 16:30", "place": "국립과천과학관 (국립과천과학관)", "description": "가족 친화 과학박물관 · 09:30~17:30 (월요일 휴관) · 약 1.5시간 · 천체관·VR체험 별도 예약 필요 (선택)" },
-        { "time": "저녁 18:30", "place": "수원 갈비 거리", "description": "수원 전통 왕갈비 저녁 식사" }
+        { "time": "Morning 09:00", "place": "Seoul / Airport Departure", "description": "Travel to Suwon by charter bus (approx. 40 min)" },
+        { "time": "Morning 10:00", "place": "Suwon Hwaseong Fortress (incl. Hwaseong Haenggung Palace)", "description": "UNESCO World Heritage fortress tour · 09:00~18:00 (Mar~Oct) · Approx. 2 hours · Royal Guard Changing Ceremony every hour 10:00~16:00" },
+        { "time": "Afternoon 13:00", "place": "Korean Folk Village (Hanguk Minsokchon)", "description": "Joseon Dynasty living history theme park · 09:30~18:00 · Approx. 3 hours · Group discount available for 20+ · Recommended: traditional wedding & folk music performances" },
+        { "time": "Afternoon 16:30", "place": "National Science Museum Gwacheon (Gwacheon Science Museum)", "description": "Family-friendly science museum · 09:30~17:30 (closed Mondays) · Approx. 1.5 hours · Planetarium & VR experience require separate reservation (optional)" },
+        { "time": "Evening 18:30", "place": "Suwon Galbi Street", "description": "Dinner with Suwon's traditional king-size galbi (grilled ribs)" }
       ]
     },
     {
-      "theme": "가평 자연 · 남이섬 · 레일바이크",
+      "theme": "Gapyeong Nature · Nami Island · Rail Bike",
       "schedule": [
-        { "time": "오전 08:30", "place": "가평 레일바이크 (가평레일파크)", "description": "폐철도 위 레일바이크 · 09:00~17:30 · 약 1시간 코스 · 예약 필수 · 청평호 경치와 터널 구간이 포토스팟" },
-        { "time": "오전 10:30", "place": "남이섬 (남이섬)", "description": "보트 이동 · 겨울연가 촬영지 · 08:00~21:00 · 약 2~3시간 소요 · 메타세쿼이아 길·자작나무 숲 인스타 명소 · 봄 벚꽃/가을 단풍 최고" },
-        { "time": "오후 14:00", "place": "아침고요수목원 (아침고요수목원)", "description": "한국 대표 정원 · 08:30~19:00 · 약 1.5~2시간 · 봄 꽃축제/겨울 조명축제 · 계절마다 다른 꽃 전시 · 단체 사진 명소" },
-        { "time": "오후 16:30", "place": "청평호 (청평호수) 산책", "description": "가평 리조트 체크인 · 호수변 산책 무료 · 여름 수상레저 선택 가능" },
-        { "time": "저녁 18:30", "place": "닭갈비·바베큐 저녁", "description": "춘천식 닭갈비 또는 리조트 바베큐" }
+        { "time": "Morning 08:30", "place": "Gapyeong Rail Bike (Gapyeong Rail Park)", "description": "Rail bike on a former railway · 09:00~17:30 · Approx. 1-hour course · Reservation required · Cheongpyeong Lake views and tunnel section are top photo spots" },
+        { "time": "Morning 10:30", "place": "Nami Island (Namiseom)", "description": "Boat access · Filming location of Winter Sonata · 08:00~21:00 · Approx. 2~3 hours · Metasequoia Lane & birch forest are Instagram hotspots · Best in spring (cherry blossoms) / autumn (fall foliage)" },
+        { "time": "Afternoon 14:00", "place": "Garden of Morning Calm (Achim Goyo Sukmogwon)", "description": "Korea's premier garden · 08:30~19:00 · Approx. 1.5~2 hours · Spring flower festival / Winter lighting festival · Seasonal flower displays · Great group photo spot" },
+        { "time": "Afternoon 16:30", "place": "Cheongpyeong Lake (Cheongpyeong-ho) Stroll", "description": "Gapyeong resort check-in · Lakeside walk free of charge · Summer water sports available (optional)" },
+        { "time": "Evening 18:30", "place": "Dak-galbi & BBQ Dinner", "description": "Chuncheon-style dak-galbi or resort BBQ" }
       ]
     },
     {
-      "theme": "인천 차이나타운 · 월미도",
+      "theme": "Incheon Chinatown · Wolmido",
       "schedule": [
-        { "time": "오전 09:00", "place": "인천 차이나타운 (인천차이나타운)", "description": "짜장면 발상지 · 무료 입장 · 09:00~18:00 · 약 1.5시간 · 한중문화관·동화마을 연계 산책" },
-        { "time": "오전 11:00", "place": "월미도 (월미도)", "description": "10:00~19:00 (월요일 휴무) · 놀이공원·해변 산책 · 약 1.5시간 · 인천항 바다 경치 전망" },
-        { "time": "오후 13:00", "place": "송도 센트럴파크", "description": "미래 도시 송도 · 현대 건축·한옥마을 포토존 · 약 1시간" },
-        { "time": "오후 15:00", "place": "다음 지역 이동", "description": "서울 경유 귀국 또는 다음 모듈 이동 · 인천공항까지 약 40분" }
+        { "time": "Morning 09:00", "place": "Incheon Chinatown (Incheon Chinatown)", "description": "Birthplace of jajangmyeon · Free admission · 09:00~18:00 · Approx. 1.5 hours · Stroll connecting Korea-China Cultural Center & Fairy Tale Village" },
+        { "time": "Morning 11:00", "place": "Wolmido (Wolmido)", "description": "10:00~19:00 (closed Mondays) · Amusement park & seaside walk · Approx. 1.5 hours · Panoramic views of Incheon Port" },
+        { "time": "Afternoon 13:00", "place": "Songdo Central Park", "description": "Futuristic Songdo city · Modern architecture & hanok village photo zones · Approx. 1 hour" },
+        { "time": "Afternoon 15:00", "place": "Transfer to Next Destination", "description": "Return home via Seoul or transfer to next module · Approx. 40 min to Incheon Airport" }
       ]
     }
   ],
   "attractions": [
-    { "name": "수원화성 (성곽+행궁)", "fee": "₩1,000+행궁별도", "feature": "유네스코 세계유산 성곽 · 09:00~18:00 · 수문장 교대식 매 정시" },
-    { "name": "한국민속촌 (한국민속촌)", "fee": "₩32,000", "feature": "조선시대 생활 재현 · 전통 공연 · 09:30~18:00 · 단체 할인 가능" },
-    { "name": "남이섬 (왕복 도선 포함)", "fee": "₩19,000", "feature": "겨울연가 촬영지 · 메타세쿼이아 길 · 08:00~21:00" },
-    { "name": "가평 레일바이크 (가평레일파크)", "fee": "₩35,000(2인)", "feature": "폐철도 레일바이크 · 청평호 경치 · 예약 필수" },
-    { "name": "아침고요수목원 (아침고요수목원)", "fee": "₩11,000", "feature": "한국 대표 정원 · 08:30~19:00 · 겨울 조명축제 인기" },
-    { "name": "국립과천과학관 (국립과천과학관)", "fee": "₩4,000", "feature": "가족 친화 과학박물관 · 09:30~17:30 · 월요일 휴관" },
-    { "name": "인천 월미도 바다열차", "fee": "₩11,000~14,000", "feature": "해안 모노레일 · 10:00~19:00 · 월요일 휴무" },
-    { "name": "인천 차이나타운+동화마을", "fee": "무료", "feature": "짜장면 발상지 · 짜장면박물관 ₩1,000 별도" },
-    { "name": "쁘띠프랑스", "fee": "₩12,000", "feature": "유럽풍 테마파크 · 어린왕자 테마" },
-    { "name": "에버랜드", "fee": "₩62,000", "feature": "국내 최대 테마파크 · 사파리·놀이기구" }
+    { "name": "Suwon Hwaseong Fortress (Walls + Palace)", "fee": "₩1,000 + Palace separate", "feature": "UNESCO World Heritage fortress · 09:00~18:00 · Royal Guard Ceremony every hour" },
+    { "name": "Korean Folk Village (Hanguk Minsokchon)", "fee": "₩32,000", "feature": "Joseon Dynasty living history · Traditional performances · 09:30~18:00 · Group discount available" },
+    { "name": "Nami Island (round-trip ferry included)", "fee": "₩19,000", "feature": "Winter Sonata filming location · Metasequoia Lane · 08:00~21:00" },
+    { "name": "Gapyeong Rail Bike (Gapyeong Rail Park)", "fee": "₩35,000 (2 persons)", "feature": "Former railway rail bike · Cheongpyeong Lake views · Reservation required" },
+    { "name": "Garden of Morning Calm (Achim Goyo Sukmogwon)", "fee": "₩11,000", "feature": "Korea's premier garden · 08:30~19:00 · Popular winter lighting festival" },
+    { "name": "National Science Museum Gwacheon", "fee": "₩4,000", "feature": "Family-friendly science museum · 09:30~17:30 · Closed Mondays" },
+    { "name": "Incheon Wolmido Sea Train", "fee": "₩11,000~14,000", "feature": "Coastal monorail · 10:00~19:00 · Closed Mondays" },
+    { "name": "Incheon Chinatown + Fairy Tale Village", "fee": "Free", "feature": "Birthplace of jajangmyeon · Jajangmyeon Museum ₩1,000 separate" },
+    { "name": "Petite France", "fee": "₩12,000", "feature": "European-style theme park · Little Prince theme" },
+    { "name": "Everland", "fee": "₩62,000", "feature": "Korea's largest theme park · Safari & rides" }
   ],
   "food": [
-    { "name": "수원 왕갈비", "place": "수원 갈비 거리 · 본수원갈비 추천", "price": "₩30,000~50,000" },
-    { "name": "춘천 닭갈비", "place": "가평·춘천 닭갈비 골목", "price": "₩15,000~20,000" },
-    { "name": "짜장면·탕수육", "place": "인천 차이나타운 공화춘 등", "price": "₩8,000~15,000" },
-    { "name": "남이섬 닭갈비·막국수", "place": "남이섬 내 식당가", "price": "₩12,000~18,000" }
+    { "name": "Suwon Wang-galbi (King Ribs)", "place": "Suwon Galbi Street · Bon Suwon Galbi recommended", "price": "₩30,000~50,000" },
+    { "name": "Chuncheon Dak-galbi (Spicy Chicken)", "place": "Gapyeong · Chuncheon Dak-galbi Alley", "price": "₩15,000~20,000" },
+    { "name": "Jajangmyeon & Tangsuyuk", "place": "Incheon Chinatown, Gonghwachun and others", "price": "₩8,000~15,000" },
+    { "name": "Nami Island Dak-galbi & Makguksu", "place": "Restaurant area inside Nami Island", "price": "₩12,000~18,000" }
   ],
-  "note": "수도권 모듈은 서울 모듈과 연결하거나 독립 시작점으로 활용 가능합니다. 봄(벚꽃)·가을(단풍) 남이섬이 최고이며, 겨울엔 아침고요수목원 조명축제가 인기입니다. 한국민속촌은 금~일 야간개장(4~11월)도 가능합니다. 가족 여행객·에버랜드·자연을 선호하는 고객에게 특히 추천합니다."
+  "note": "The Metropolitan module can be connected with the Seoul module or used as a standalone starting point. Nami Island is at its best in spring (cherry blossoms) and autumn (fall foliage), while the Garden of Morning Calm's winter lighting festival is a popular attraction in winter. Korean Folk Village also offers evening opening hours (Fri~Sun, April~November). Especially recommended for families, Everland fans, and nature lovers."
 }

@@ -2,71 +2,71 @@
   "name": "Gyeongsang",
   "nameKr": "경상도",
   "duration": "2 Nights · 3 Days",
-  "cities": "부산·경주 (안동 선택)",
+  "cities": "Busan · Gyeongju (Andong optional)",
   "priceMin4": "~420,000원",
   "priceMin20": "~210,000원",
   "accommodation": "3-star or above hotel",
   "transport": {
-    "from": "서울",
+    "from": "Seoul",
     "method": "KTX",
-    "duration": "약 2시간 30분",
+    "duration": "Approx. 2 hrs 30 min",
     "cost": "₩59,800"
   },
   "itinerary": [
     {
-      "theme": "부산 바다 · 해안 절경",
+      "theme": "Busan Sea · Coastal Scenery",
       "schedule": [
-        { "time": "오전 08:00", "place": "KTX 부산 도착", "description": "서울에서 KTX 약 2시간 30분 · 부산역 도착 후 전세버스 합류" },
-        { "time": "오전 09:00", "place": "해동용궁사 (해동용궁사)", "description": "바다 위 절벽 사찰 · 무료 입장 · 04:30~19:00 · 약 1시간 · 일출 시 장관 · 108계단 하강 · 12지신상 포토존 · 사찰 내 소원 동전 던지기" },
-        { "time": "오전 11:00", "place": "해운대 해변·더베이101", "description": "부산 대표 해수욕장 산책 · 무료 · 더베이101 요트 클럽 경관 · 마린시티 스카이라인 포토" },
-        { "time": "오후 13:00", "place": "자갈치시장 (자갈치시장)", "description": "국내 최대 어시장 · 무료 입장 · 2층 식당가 점심 회 · 활어 직접 골라 회 떠먹기 체험" },
-        { "time": "오후 15:00", "place": "태종대 (태종대)", "description": "해안 절벽 자연공원 · 무료 입장 · 09:20~17:30 (6~8월 ~19:30) · 월요일 휴무 · 약 1.5시간 · 영도등대·신선바위 전망" },
-        { "time": "저녁 18:00", "place": "해산물 저녁·광안리", "description": "광안리 해변 레스토랑에서 회·어탕국수 · 광안대교 야경 감상 · 레이저쇼 (주말 계절별)" }
+        { "time": "Morning 08:00", "place": "KTX Arrival at Busan", "description": "KTX from Seoul approx. 2 hrs 30 min · Join chartered bus upon arrival at Busan Station" },
+        { "time": "Morning 09:00", "place": "Haedong Yonggungsa (해동용궁사)", "description": "Clifftop sea temple · Free admission · 04:30–19:00 · Approx. 1 hr · Spectacular at sunrise · Descend 108 steps · 12 zodiac statues photo spot · Coin wish-tossing inside the temple" },
+        { "time": "Morning 11:00", "place": "Haeundae Beach · The Bay 101", "description": "Walk along Busan's iconic beach · Free · The Bay 101 yacht club scenery · Marine City skyline photo spot" },
+        { "time": "Afternoon 13:00", "place": "Jagalchi Market (자갈치시장)", "description": "Korea's largest fish market · Free entry · Sashimi lunch at 2nd-floor restaurants · Experience picking and eating live fish" },
+        { "time": "Afternoon 15:00", "place": "Taejongdae (태종대)", "description": "Coastal cliff nature park · Free entry · 09:20–17:30 (Jun–Aug until 19:30) · Closed Mondays · Approx. 1.5 hrs · Views of Yeongdo Lighthouse and Sinseon Rock" },
+        { "time": "Evening 18:00", "place": "Seafood Dinner · Gwangalli", "description": "Sashimi and fish soup noodles at Gwangalli beachfront restaurants · Night view of Gwangan Bridge · Laser show (weekends, seasonal)" }
       ]
     },
     {
-      "theme": "부산 문화마을 · 야경",
+      "theme": "Busan Village Culture · Night Views",
       "schedule": [
-        { "time": "오전 09:00", "place": "감천문화마을 (감천문화마을)", "description": "부산의 마추픽추 · 무료 · 약 1.5시간 · 어린왕자·물고기 조형물 포토스팟 · 마을 지도 인포센터에서 수령" },
-        { "time": "오전 11:00", "place": "흰여울문화마을 (흰여울문화마을)", "description": "영도 해안 절벽 마을 · 무료 · 약 1시간 · 흰여울 해안터널 70m 포토스팟 · 카페·갤러리 골목 산책 · 계단 많아 편한 신발 필수 · 비 오는 날 미끄러움 주의" },
-        { "time": "오후 13:00", "place": "국제시장·BIFF광장·씨앗호떡", "description": "영화의 도시 부산 · 무료 · 약 1시간 · 부산 영화제 명소" },
-        { "time": "오후 14:30", "place": "송도 스카이워크 (송도스카이워크)", "description": "바다 위 유리 다리 · 무료 · 06:00~23:00 · 약 30분 · 송도해수욕장 연계" },
-        { "time": "오후 16:00", "place": "용두산공원·부산타워 (부산타워)", "description": "부산 도심 360도 전망 · 09:00~22:00 · 약 1시간 · 꽃시계·용두산 에스컬레이터" },
-        { "time": "저녁 18:00", "place": "돼지국밥·밀면 저녁", "description": "부산 대표 음식 · 서면 먹자골목 추천" }
+        { "time": "Morning 09:00", "place": "Gamcheon Culture Village (감천문화마을)", "description": "Busan's Machu Picchu · Free · Approx. 1.5 hrs · Little Prince and fish sculpture photo spots · Pick up village map at the info center" },
+        { "time": "Morning 11:00", "place": "Huinnyeoul Culture Village (흰여울문화마을)", "description": "Yeongdo coastal cliff village · Free · Approx. 1 hr · 70m Huinnyeoul coastal tunnel photo spot · Stroll through café and gallery alleyways · Comfortable shoes essential due to many stairs · Caution: slippery on rainy days" },
+        { "time": "Afternoon 13:00", "place": "Gukje Market · BIFF Square · Ssiat Hotteok", "description": "Busan, city of cinema · Free · Approx. 1 hr · Famous spots from Busan International Film Festival" },
+        { "time": "Afternoon 14:30", "place": "Songdo Skywalk (송도스카이워크)", "description": "Glass bridge over the sea · Free · 06:00–23:00 · Approx. 30 min · Connected to Songdo Beach" },
+        { "time": "Afternoon 16:00", "place": "Yongdusan Park · Busan Tower (부산타워)", "description": "360-degree view of downtown Busan · 09:00–22:00 · Approx. 1 hr · Floral clock · Yongdusan escalator" },
+        { "time": "Evening 18:00", "place": "Dwaeji Gukbap · Milmyeon Dinner", "description": "Busan's signature dishes · Recommended: Seomyeon food alley" }
       ]
     },
     {
-      "theme": "경주 신라 유산 · (안동 선택)",
+      "theme": "Gyeongju Silla Heritage · (Andong Optional)",
       "schedule": [
-        { "time": "오전 08:00", "place": "불국사 (불국사·유네스코)", "description": "유네스코 세계유산 · 07:00~18:00 (동절기 ~17:00) · 약 1.5시간 · 다보탑·석가탑·청운교·백운교 필수 관람 · 부산에서 버스 약 1시간" },
-        { "time": "오전 10:00", "place": "석굴암 (석굴암·유네스코)", "description": "유네스코 세계유산 석불 · 불국사에서 셔틀 약 15분 · 약 40분 소요 · 본존불상 유리 너머 관람" },
-        { "time": "오후 12:00", "place": "양동마을 (양동마을·유네스코)", "description": "한국 최대 전통마을 · 09:00~19:00 (4~9월) / ~18:00 (10~3월) · 약 1.5시간 · 500년 된 양반가옥 · 건물 내부 무단진입 금지 · 마을 높은 곳에서 파노라마 포토" },
-        { "time": "오후 14:30", "place": "보문호수·대릉원·첨성대", "description": "보문관광단지 호수 산책(무료) · 첨성대 야외 무료 · 약 1.5시간 · 봄 벚꽃 보문호수 드라이브 추천" },
-        { "time": "야간 19:00", "place": "동궁과월지 야경 (동궁과월지)", "description": "신라 별궁 연못 야경 · 09:00~22:00 (입장 21:30까지) · 약 1시간 · 한국 대표 야경 명소 · 연못 반영 사진 필수 · 겨울 조명이 특히 아름다움" }
+        { "time": "Morning 08:00", "place": "Bulguksa (불국사·유네스코)", "description": "UNESCO World Heritage Site · 07:00–18:00 (winter until 17:00) · Approx. 1.5 hrs · Must-see: Dabotap, Seokgatap, Cheongun-gyo, Baegun-gyo bridges · Approx. 1 hr by bus from Busan" },
+        { "time": "Morning 10:00", "place": "Seokguram (석굴암·유네스코)", "description": "UNESCO World Heritage stone Buddha grotto · Shuttle from Bulguksa approx. 15 min · Approx. 40 min visit · View the main Buddha statue through glass" },
+        { "time": "Afternoon 12:00", "place": "Yangdong Village (양동마을·유네스코)", "description": "Korea's largest traditional village · 09:00–19:00 (Apr–Sep) / until 18:00 (Oct–Mar) · Approx. 1.5 hrs · 500-year-old Joseon nobleman houses · No unauthorized entry into buildings · Panoramic photo from the upper part of the village" },
+        { "time": "Afternoon 14:30", "place": "Bomun Lake · Daereungwon · Cheomseongdae", "description": "Lake walk at Bomun Tourist Complex (free) · Cheomseongdae outdoor area free · Approx. 1.5 hrs · Spring cherry blossom drive around Bomun Lake recommended" },
+        { "time": "Night 19:00", "place": "Donggung Palace & Wolji Pond Night View (동궁과월지)", "description": "Night view of Silla royal villa pond · 09:00–22:00 (last entry 21:30) · Approx. 1 hr · One of Korea's top night view spots · Reflection photo in the pond is a must · Lighting especially beautiful in winter" }
       ]
     }
   ],
   "attractions": [
-    { "name": "해동용궁사 (해동용궁사)", "fee": "무료", "feature": "바다 절벽 사찰 · 04:30~19:00 · 일출 명소" },
-    { "name": "해운대·광안리 해변", "fee": "무료", "feature": "부산 대표 해수욕장 · 광안대교 야경" },
-    { "name": "태종대 (태종대)", "fee": "무료(다누비열차₩3,000)", "feature": "해안 절벽 · 다누비열차 · 월요일 휴무" },
-    { "name": "감천문화마을", "fee": "무료", "feature": "부산 마추픽추 · 스탬프투어 ₩2,000" },
-    { "name": "흰여울문화마을", "fee": "무료", "feature": "영도 해안 절벽마을 · 해안터널 포토스팟" },
-    { "name": "송도 스카이워크", "fee": "무료", "feature": "바다 위 유리 다리 · 06:00~23:00" },
-    { "name": "부산타워 전망대 (용두산공원)", "fee": "₩4,000(단체₩3,500)", "feature": "부산 360도 전망 · 09:00~22:00" },
-    { "name": "불국사 (경주·유네스코)", "fee": "₩6,000", "feature": "유네스코 세계유산 · 07:00~18:00" },
-    { "name": "석굴암 (경주·유네스코)", "fee": "₩6,000", "feature": "유네스코 석불 · 불국사에서 셔틀 15분" },
-    { "name": "양동마을 (경주·유네스코)", "fee": "₩4,000", "feature": "한국 최대 전통마을 · 09:00~19:00" },
-    { "name": "대릉원·첨성대 (경주)", "fee": "₩3,000", "feature": "신라 왕릉군 · 동양 최고 천문대" },
-    { "name": "동궁과월지 야경 (경주)", "fee": "₩3,000", "feature": "신라 별궁 야경 · 09:00~22:00" },
-    { "name": "안동 하회마을 (유네스코)", "fee": "₩3,000", "feature": "유네스코 전통마을 · 09:00~18:00 · 하회별신굿탈놀이 공연(9~10월 축제) · 축제 티켓 ₩6,000~8,000" }
+    { "name": "Haedong Yonggungsa (해동용궁사)", "fee": "Free", "feature": "Sea cliff temple · 04:30–19:00 · Sunrise hotspot" },
+    { "name": "Haeundae · Gwangalli Beach", "fee": "Free", "feature": "Busan's iconic beaches · Gwangan Bridge night view" },
+    { "name": "Taejongdae (태종대)", "fee": "Free (Danuvi Train ₩3,000)", "feature": "Coastal cliffs · Danuvi Train · Closed Mondays" },
+    { "name": "Gamcheon Culture Village", "fee": "Free", "feature": "Busan's Machu Picchu · Stamp tour ₩2,000" },
+    { "name": "Huinnyeoul Culture Village", "fee": "Free", "feature": "Yeongdo coastal cliff village · Coastal tunnel photo spot" },
+    { "name": "Songdo Skywalk", "fee": "Free", "feature": "Glass bridge over the sea · 06:00–23:00" },
+    { "name": "Busan Tower Observatory (Yongdusan Park)", "fee": "₩4,000 (group ₩3,500)", "feature": "360-degree view of Busan · 09:00–22:00" },
+    { "name": "Bulguksa (Gyeongju · UNESCO)", "fee": "₩6,000", "feature": "UNESCO World Heritage Site · 07:00–18:00" },
+    { "name": "Seokguram (Gyeongju · UNESCO)", "fee": "₩6,000", "feature": "UNESCO stone Buddha grotto · 15-min shuttle from Bulguksa" },
+    { "name": "Yangdong Village (Gyeongju · UNESCO)", "fee": "₩4,000", "feature": "Korea's largest traditional village · 09:00–19:00" },
+    { "name": "Daereungwon · Cheomseongdae (Gyeongju)", "fee": "₩3,000", "feature": "Silla royal tomb cluster · Asia's oldest observatory" },
+    { "name": "Donggung & Wolji Night View (Gyeongju)", "fee": "₩3,000", "feature": "Silla royal villa night view · 09:00–22:00" },
+    { "name": "Andong Hahoe Village (UNESCO)", "fee": "₩3,000", "feature": "UNESCO traditional village · 09:00–18:00 · Hahoe Byeolsingut Mask Dance performance (Sep–Oct festival) · Festival tickets ₩6,000–8,000" }
   ],
   "food": [
-    { "name": "싱싱한 회 (해산물)", "place": "자갈치시장 2층 식당가", "price": "₩30,000~60,000" },
-    { "name": "돼지국밥", "place": "서면·국제시장 골목", "price": "₩10,000~13,000" },
-    { "name": "씨앗호떡·어묵·비빔당면", "place": "BIFF광장·국제시장 노점", "price": "₩2,000~5,000" },
-    { "name": "밀면 (부산 냉면)", "place": "부산 시내 밀면 전문점", "price": "₩10,000~13,000" },
-    { "name": "경주 십원빵·황남빵", "place": "경주 황남동 빵 골목", "price": "₩2,000~5,000" }
+    { "name": "Fresh Sashimi (Seafood)", "place": "Jagalchi Market 2nd Floor Restaurants", "price": "₩30,000~60,000" },
+    { "name": "Dwaeji Gukbap (Pork Soup Rice)", "place": "Seomyeon · Gukje Market alleyways", "price": "₩10,000~13,000" },
+    { "name": "Ssiat Hotteok · Eomuk · Bibim Dangmyeon", "place": "BIFF Square · Gukje Market street stalls", "price": "₩2,000~5,000" },
+    { "name": "Milmyeon (Busan-style cold noodles)", "place": "Milmyeon specialty restaurants in Busan", "price": "₩10,000~13,000" },
+    { "name": "Gyeongju 10-won Bread · Hwangnam Bread", "place": "Gyeongju Hwangnam-dong bread alley", "price": "₩2,000~5,000" }
   ],
-  "note": "부산 야경은 광안대교(광안리 해변)·부산타워·감천마을 석양 등 다양합니다. 안동 하회마을 추가 시 경주에서 버스 약 1.5시간 · 안동 국제탈춤축제(9월말~10월초)는 별도 1일 확보를 추천합니다. 경상도 모듈 후 전라도 모듈과 연결 시 전주까지 버스 이동 약 2시간 30분."
+  "note": "Busan's night views are varied — highlights include Gwangan Bridge (Gwangalli Beach), Busan Tower, and the sunset from Gamcheon Village. If adding Andong Hahoe Village, allow approx. 1.5 hrs by bus from Gyeongju. The Andong International Mask Dance Festival (late Sep–early Oct) is recommended as a separate full-day excursion. After the Gyeongsang module, connecting to the Jeolla module involves approx. 2 hrs 30 min by bus to Jeonju."
 }

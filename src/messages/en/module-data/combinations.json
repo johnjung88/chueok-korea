@@ -1,0 +1,50 @@
+[
+  {
+    "badge": "Most Popular",
+    "badgeColor": "red",
+    "title": "Classic Korea",
+    "regions": "🏙 Seoul + 🌊 Gyeongsang",
+    "duration": "6 Nights · 7 Days",
+    "description": "The perfect first Korea experience. Modern Seoul meets ancient Silla history, Busan beaches, and Korea's finest seafood."
+  },
+  {
+    "badge": "Honeymoon Pick",
+    "badgeColor": "sage",
+    "title": "Seoul & Jeju",
+    "regions": "🏙 Seoul + 🌺 Jeju Island",
+    "duration": "6 Nights · 7 Days",
+    "description": "K-drama romance meets UNESCO volcanic paradise. Ideal for couples, newlyweds, and families seeking natural wonder."
+  },
+  {
+    "badge": "Food & Culture",
+    "badgeColor": "gold",
+    "title": "Culture Trail",
+    "regions": "🏙 Seoul + 🌿 Jeolla",
+    "duration": "6 Nights · 7 Days",
+    "description": "Royal palaces to ancient hanok villages and Korea's most celebrated cuisine. A journey through 5,000 years of living culture."
+  },
+  {
+    "badge": "Nature & Escape",
+    "badgeColor": "gold",
+    "title": "City & Mountains",
+    "regions": "🏙 Seoul + ⛰ Gangwon",
+    "duration": "6 Nights · 7 Days",
+    "description": "Seoul's vibrant energy gives way to Seoraksan's peaks, East Sea beaches, and Gangwon's pristine highland scenery."
+  },
+  {
+    "badge": "Grand Tour",
+    "badgeColor": "red",
+    "title": "Grand Korea",
+    "regions": "🏙 Seoul + 🌊 Gyeongsang + 🌿 Jeolla + 🌺 Jeju",
+    "duration": "13 Nights · 14 Days",
+    "description": "From the capital to the southernmost island. Ancient kingdoms, Korea's finest cuisine, bamboo forests, and Jeju's volcanic magic — the complete journey."
+  },
+  {
+    "badge": "Family Favourite",
+    "badgeColor": "gold",
+    "title": "Complete Korea",
+    "regions": "🏙 Seoul + 🏯 Metropolitan + ⛰ Gangwon + 🌺 Jeju",
+    "duration": "13 Nights · 14 Days",
+    "description": "Theme parks, Nami Island, Seoraksan mountains, and Jeju wonder. A full-spectrum Korea experience designed for the whole family."
+  }
+]

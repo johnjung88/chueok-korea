@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "මුල් පිටුව",
+    "about": "අප ගැන",
+    "tourModules": "ටුවර් මොඩියුල",
+    "packages": "පැකේජ",
+    "contact": "සම්බන්ධ වන්න",
+    "bookNow": "දැන් වෙන්කරවන්න"
+  },
+  "footer": {
+    "brand": "Chueok Korea",
+    "brandKr": "추억 코리아",
+    "brandSi": "ලංකා සිට කොරියාව",
+    "copyright": "© 2025 Chueok Korea. සියලු හිමිකම් ඇවිරිණි.",
+    "about": "අප ගැන",
+    "modules": "මොඩියුල",
+    "packages": "පැකේජ",
+    "contact": "සම්බන්ධ වන්න"
+  },
+  "shared": {
+    "explore": "ගවේෂණය",
+    "viewDetails": "විස්තර බලන්න →",
+    "enquireNow": "දැන් විමසන්න →",
+    "viewAllModules": "සියලු මොඩියුල බලන්න",
+    "scroll": "පහළට",
+    "from": "සිට",
+    "to": "දක්වා",
+    "included": "ඇතුළත්",
+    "optional": "විකල්ප",
+    "includedInBase": "මූලික පැකේජයට ඇතුළත්",
+    "availableAtExtraCost": "අමතර වියදමකින් ලබාගත හැක",
+    "fromPerPerson": "පුද්ගලයෙකුට (සිට)",
+    "group20Plus": "20+ කණ්ඩායම",
+    "featured": "විශේෂ",
+    "transportCost": "ප්‍රවාහන වියදම",
+    "accommodation": "නවාතැන"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "ko": "한국어",
+    "si": "සිංහල"
+  }
+}

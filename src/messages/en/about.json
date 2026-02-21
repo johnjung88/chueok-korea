@@ -1,0 +1,59 @@
+{
+  "header": {
+    "label": "Who We Are",
+    "title": "About",
+    "titleHighlight": "Chueok Korea",
+    "subtitle": "추억 코리아 — \"Memory Korea\""
+  },
+  "content": {
+    "title1": "Built by Koreans,",
+    "title2": "Crafted for Sri Lankans",
+    "paragraph1": "Chueok Korea was founded to bridge the love Sri Lankans have for Korean culture with the authentic experience only insiders can provide.",
+    "paragraph2": "We are not a general tour agency. Every itinerary is meticulously designed for Sri Lankan tastes — halal-friendly food options, group-sized vehicle fleets, Sinhala-speaking tour coordinators, and 24/7 WhatsApp support throughout your journey.",
+    "quote": "\"추억\" means cherished memories. That's exactly what we create.",
+    "stat1Value": "100+",
+    "stat1Label": "Groups Taken",
+    "stat2Value": "7",
+    "stat2Label": "Regions Covered",
+    "stat3Value": "4.9★",
+    "stat3Label": "Average Rating",
+    "nightsValue": "13+",
+    "nightsLabel": "Nights Available Across All Modules"
+  },
+  "howItWorks": {
+    "label": "The Process",
+    "title1": "From start to finish",
+    "title2": "Just pick your modules",
+    "description": "No spreadsheets. No confusion. Just four easy steps and a WhatsApp message away from the trip of a lifetime.",
+    "cta": "Start Planning →",
+    "step1Title": "Choose Modules",
+    "step1Desc": "Browse our 7 regional modules and select the destinations your group wants.",
+    "step1Icon": "🗺",
+    "step2Title": "Confirm Group",
+    "step2Desc": "Share your group size and dates. Minimum 5 pax. Larger groups get better rates.",
+    "step2Icon": "👥",
+    "step3Title": "We Handle Everything",
+    "step3Desc": "Hotels, transport, guides, entry tickets — fully managed by our Korea team.",
+    "step3Icon": "✓",
+    "step4Title": "Make Memories",
+    "step4Desc": "Land in Korea and experience every moment. We are on WhatsApp 24/7.",
+    "step4Icon": "✦"
+  },
+  "testimonials": {
+    "label": "Traveller Stories",
+    "title": "Voices of",
+    "titleHighlight": "추억",
+    "quote1": "Chueok Korea made our group trip effortless. From Gyeongbokgung to Busan beaches — every detail was handled perfectly.",
+    "name1": "Samantha & Family",
+    "location1": "Colombo, Sri Lanka",
+    "initials1": "SF",
+    "quote2": "The modular system is genius. We customised Seoul + Jeju for our honeymoon and it was absolute magic.",
+    "name2": "Kavinda & Thisuri",
+    "location2": "Kandy, Sri Lanka",
+    "initials2": "KT",
+    "quote3": "Travelling with 22 colleagues, I was worried — but Chueok Korea coordinated everything seamlessly.",
+    "name3": "Ruwan Perera",
+    "location3": "Galle, Sri Lanka",
+    "initials3": "RP"
+  }
+}

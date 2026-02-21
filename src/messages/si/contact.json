@@ -1,0 +1,30 @@
+{
+  "header": {
+    "label": "සම්බන්ධ වන්න",
+    "title1": "ඔබේ කොරියානු ගමන",
+    "title2": "සැලසුම් කිරීමට සූදානම්ද?",
+    "description": "සංචාරකයින් 5 දෙනෙකු වුවත් 50 දෙනෙකු වුවත්, ඔබේ කණ්ඩායමට පරිපූර්ණ මොඩියුලර් ගමන් මාර්ගයක් සකසා දෙන්නෙමු."
+  },
+  "channels": {
+    "whatsappTitle": "WhatsApp චැට්",
+    "whatsappDesc": "වේගවත්ම ප්‍රතිචාරය · පෙ.ව. 7 සිට ප.ව. 11 · ක්ෂණික චැට්",
+    "emailTitle": "ඊමේල් කරන්න",
+    "emailDesc": "hello@chueokkorea.com · පැය 24ක් ඇතුළත පිළිතුරු",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "@chueokkorea · දිනපතා සංචාරක ආශ්වාදය"
+  },
+  "info": {
+    "responseTimeLabel": "ප්‍රතිචාර කාලය",
+    "responseTimeValue": "< පැය 1",
+    "responseTimeSub": "ව්‍යාපාරික වේලාවේ",
+    "groupSizeLabel": "අවම කණ්ඩායම් ප්‍රමාණය",
+    "groupSizeValue": "5 දෙනා",
+    "groupSizeSub": "විශාල කණ්ඩායම් = වඩා හොඳ මිල",
+    "supportLabel": "සහාය",
+    "supportValue": "24/7",
+    "supportSub": "ටුවර් වලදී WhatsApp"
+  },
+  "cta": {
+    "koreanText": "දැන්ම අප හා සම්බන්ධ වන්න"
+  }
+}

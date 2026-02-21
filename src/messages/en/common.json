@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "tourModules": "Tour Modules",
+    "packages": "Packages",
+    "contact": "Contact",
+    "bookNow": "Book Now"
+  },
+  "footer": {
+    "brand": "Chueok Korea",
+    "brandKr": "추억 코리아",
+    "brandSi": "ලංකා සිට කොරියාව",
+    "copyright": "© 2025 Chueok Korea. All rights reserved.",
+    "about": "About",
+    "modules": "Modules",
+    "packages": "Packages",
+    "contact": "Contact"
+  },
+  "shared": {
+    "explore": "Explore",
+    "viewDetails": "View Details →",
+    "enquireNow": "Enquire Now →",
+    "viewAllModules": "View All Modules",
+    "scroll": "Scroll",
+    "from": "From",
+    "to": "To",
+    "included": "Included",
+    "optional": "Optional",
+    "includedInBase": "Included in base package",
+    "availableAtExtraCost": "Available at extra cost",
+    "fromPerPerson": "From (per person)",
+    "group20Plus": "group 20+",
+    "featured": "Featured",
+    "transportCost": "Transport Cost",
+    "accommodation": "Accommodation"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "ko": "한국어",
+    "si": "සිංහල"
+  }
+}

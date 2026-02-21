@@ -1,0 +1,37 @@
+{
+  "list": {
+    "label": "ගවේෂණය කළ හැකි ප්‍රදේශ 7ක්",
+    "title": "ටුවර්",
+    "titleHighlight": "මොඩියුල",
+    "description": "සෑම මොඩියුලයක්ම රාත්‍රී 2, දින 3 ක් වන අතර එම ප්‍රදේශයේ හොඳම අත්දැකීම් පමණක් ඇතුළත් ය. ඔබ කැමති මොඩියුල තෝරා නිදහසේ ඒකාබද්ධ කර ඔබේ පරිපූර්ණ කොරියානු ගමන සාදා ගන්න.",
+    "exploreJeju": "ජේජු ගවේෂණය →"
+  },
+  "detail": {
+    "dayByDay": "දිනෙන් දින",
+    "yourItinerary": "ඔබේ ගමන් මාර්ගය",
+    "itinerarySub": "일정 상세",
+    "day": "{number} දිනය",
+    "attractionsLabel": "ප්‍රධාන ස්ථාන",
+    "attractionsTitle": "මෙම ප්‍රදේශයේ සංචාරක ආකර්ෂණ",
+    "tasteOfKorea": "කොරියාවේ රසය",
+    "foodGuide": "ආහාර මාර්ගෝපදේශය",
+    "foodSub": "현지 맛집 가이드",
+    "gettingThere": "එහි යන්නේ කෙසේද",
+    "transportInfo": "ප්‍රවාහන තොරතුරු",
+    "transportSub": "교통 정보",
+    "travelTipsNotes": "සංචාර ඉඟි සහ සටහන්",
+    "keepExploring": "තවත් ගවේෂණය",
+    "exploreMoreRegions": "තවත් ප්‍රදේශ ගවේෂණය",
+    "exploreMoreSub": "다른 지역 탐색하기",
+    "readyToTravel": "සංචාරයට සූදානම්ද?",
+    "readyToExplore": "ගවේෂණයට සූදානම්",
+    "experienceBeauty": " හි සුන්දරත්වය එක්ව අත්විඳින්න",
+    "startingFrom": "ආරම්භක මිල",
+    "perPersonGroup20": "20+ කණ්ඩායම් සඳහා පුද්ගලයෙකුට.",
+    "across": "හරහා",
+    "socialProof": "ශ්‍රී ලාංකික පවුල් සහ මිතුරන් සඳහා · සම්පූර්ණ මාර්ගෝපදේශනය · අභිරුචි කණ්ඩායම් ප්‍රමාණ",
+    "pax4": "4인",
+    "pax20": "20인+",
+    "fromGroup20": "20+ කණ්ඩායම් (සිට)"
+  }
+}

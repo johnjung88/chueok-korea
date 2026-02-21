@@ -1,0 +1,59 @@
+{
+  "header": {
+    "label": "소개",
+    "title": "소개",
+    "titleHighlight": "추억 코리아",
+    "subtitle": "추억 코리아 — \"Memory Korea\""
+  },
+  "content": {
+    "title1": "한국인이 만들고,",
+    "title2": "스리랑카인을 위해 설계",
+    "paragraph1": "추억 코리아는 스리랑카인들의 한국 문화에 대한 사랑과 내부자만이 제공할 수 있는 진정한 경험을 연결하기 위해 설립되었습니다.",
+    "paragraph2": "우리는 일반적인 여행사가 아닙니다. 모든 일정은 스리랑카인의 취향에 맞게 세심하게 설계되었습니다 — 할랄 친화적 음식 옵션, 그룹 규모의 차량, 싱할라어를 구사하는 투어 코디네이터, 여행 기간 동안 24시간 WhatsApp 지원.",
+    "quote": "\"추억\"은 소중한 기억을 의미합니다. 그것이 바로 우리가 만드는 것입니다.",
+    "stat1Value": "100+",
+    "stat1Label": "그룹 진행",
+    "stat2Value": "7",
+    "stat2Label": "지역 커버",
+    "stat3Value": "4.9★",
+    "stat3Label": "평균 평점",
+    "nightsValue": "13+",
+    "nightsLabel": "모든 모듈의 총 숙박"
+  },
+  "howItWorks": {
+    "label": "진행 과정",
+    "title1": "시작부터 끝까지",
+    "title2": "모듈만 선택하면 끝",
+    "description": "스프레드시트도, 혼란도 없습니다. 네 가지 간단한 단계와 WhatsApp 메시지 하나면 평생의 여행이 시작됩니다.",
+    "cta": "계획 시작 →",
+    "step1Title": "모듈 선택",
+    "step1Desc": "7개 지역 모듈을 살펴보고 그룹이 원하는 목적지를 선택하세요.",
+    "step1Icon": "🗺",
+    "step2Title": "그룹 확정",
+    "step2Desc": "그룹 규모와 날짜를 공유하세요. 최소 5명. 그룹이 클수록 더 좋은 요금.",
+    "step2Icon": "👥",
+    "step3Title": "모든 것을 처리합니다",
+    "step3Desc": "호텔, 교통, 가이드, 입장권 — 한국 팀이 완벽하게 관리합니다.",
+    "step3Icon": "✓",
+    "step4Title": "추억 만들기",
+    "step4Desc": "한국에 도착하여 모든 순간을 경험하세요. 24시간 WhatsApp 지원.",
+    "step4Icon": "✦"
+  },
+  "testimonials": {
+    "label": "여행자 이야기",
+    "title": "추억의",
+    "titleHighlight": "목소리",
+    "quote1": "추억 코리아 덕분에 그룹 여행이 정말 수월했습니다. 경복궁에서 부산 해변까지 — 모든 세부 사항이 완벽하게 처리되었습니다.",
+    "name1": "Samantha & 가족",
+    "location1": "콜롬보, 스리랑카",
+    "initials1": "SF",
+    "quote2": "모듈 시스템은 천재적입니다. 신혼여행으로 서울 + 제주를 맞춤 구성했는데 정말 마법 같았습니다.",
+    "name2": "Kavinda & Thisuri",
+    "location2": "캔디, 스리랑카",
+    "initials2": "KT",
+    "quote3": "22명의 동료와 함께 여행하면서 걱정했지만 — 추억 코리아가 모든 것을 원활하게 조율했습니다.",
+    "name3": "Ruwan Perera",
+    "location3": "갈레, 스리랑카",
+    "initials3": "RP"
+  }
+}

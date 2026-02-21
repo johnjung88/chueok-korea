@@ -1,0 +1,30 @@
+{
+  "header": {
+    "label": "문의하기",
+    "title1": "한국 여행을",
+    "title2": "계획할 준비가 되셨나요?",
+    "description": "5명이든 50명이든, 그룹에 맞는 완벽한 모듈식 일정을 만들어 드립니다."
+  },
+  "channels": {
+    "whatsappTitle": "WhatsApp 채팅",
+    "whatsappDesc": "가장 빠른 응답 · 오전 7시~오후 11시 · 즉시 채팅",
+    "emailTitle": "이메일",
+    "emailDesc": "hello@chueokkorea.com · 24시간 이내 답변",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "@chueokkorea · 매일 여행 영감"
+  },
+  "info": {
+    "responseTimeLabel": "응답 시간",
+    "responseTimeValue": "< 1시간",
+    "responseTimeSub": "업무 시간 기준",
+    "groupSizeLabel": "최소 그룹 규모",
+    "groupSizeValue": "5명",
+    "groupSizeSub": "더 큰 그룹 = 더 좋은 요금",
+    "supportLabel": "지원",
+    "supportValue": "24/7",
+    "supportSub": "투어 기간 WhatsApp"
+  },
+  "cta": {
+    "koreanText": "지금 바로 연락하세요"
+  }
+}

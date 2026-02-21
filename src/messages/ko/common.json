@@ -1,0 +1,43 @@
+{
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "tourModules": "투어 모듈",
+    "packages": "패키지",
+    "contact": "문의",
+    "bookNow": "지금 예약"
+  },
+  "footer": {
+    "brand": "Chueok Korea",
+    "brandKr": "추억 코리아",
+    "brandSi": "ලංකා සිට කොරියාව",
+    "copyright": "© 2025 Chueok Korea. 모든 권리 보유.",
+    "about": "소개",
+    "modules": "모듈",
+    "packages": "패키지",
+    "contact": "문의"
+  },
+  "shared": {
+    "explore": "탐색",
+    "viewDetails": "상세 보기 →",
+    "enquireNow": "문의하기 →",
+    "viewAllModules": "모든 모듈 보기",
+    "scroll": "스크롤",
+    "from": "출발",
+    "to": "도착",
+    "included": "포함",
+    "optional": "선택",
+    "includedInBase": "기본 패키지에 포함",
+    "availableAtExtraCost": "추가 비용으로 이용 가능",
+    "fromPerPerson": "1인 기준",
+    "group20Plus": "20인 이상",
+    "featured": "추천",
+    "transportCost": "교통비",
+    "accommodation": "숙소"
+  },
+  "languageSwitcher": {
+    "en": "EN",
+    "ko": "한국어",
+    "si": "සිංහල"
+  }
+}

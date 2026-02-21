@@ -1,0 +1,14 @@
+{
+  "header": {
+    "label": "Ready-Made Itineraries",
+    "title": "Popular",
+    "titleHighlight": "Packages",
+    "description": "Our most-booked multi-module packages, trusted by hundreds of Sri Lankan travellers. Mix any modules to build your dream Korea trip."
+  },
+  "custom": {
+    "title": "Want a",
+    "titleHighlight": "Custom Package?",
+    "description": "Mix any of our 7 modules to create your own itinerary. We'll handle the logistics.",
+    "cta": "Build Your Own Package →"
+  }
+}

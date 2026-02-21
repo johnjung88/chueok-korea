@@ -1,0 +1,44 @@
+{
+  "hero": {
+    "badge": "Sri Lanka's #1 Korea Travel Specialist",
+    "titleLine1": "Create",
+    "titleLine2": "Memories",
+    "titleLine3": "in Korea",
+    "subtitleKr": "한국에서 평생의 추억을 만드세요",
+    "description": "Curated group tours for Sri Lankan families and friends. Choose your modules, confirm your group, and let us handle everything.",
+    "exploreModules": "Explore Modules →",
+    "contactUs": "Contact Us",
+    "stat1Value": "7",
+    "stat1Label": "Tour Modules",
+    "stat2Value": "5+",
+    "stat2Label": "Min. Group",
+    "stat3Value": "4★",
+    "stat3Label": "Hotels Only",
+    "colomboToSeoul": "✈ Colombo → Seoul",
+    "directPackages": "Direct Packages"
+  },
+  "quickLinks": {
+    "sectionLabel": "Explore",
+    "title": "Your Journey",
+    "titleHighlight": "Starts Here",
+    "description": "7 regional modules, curated combinations, and a team that handles every detail. Explore what Chueok Korea has to offer.",
+    "aboutTitle": "About Us",
+    "aboutDesc": "Who we are and how we work",
+    "aboutIcon": "추억",
+    "modulesTitle": "Tour Modules",
+    "modulesDesc": "7 regions, each 3 days / 2 nights",
+    "modulesIcon": "🗺",
+    "packagesTitle": "Packages",
+    "packagesDesc": "Popular multi-region combinations",
+    "packagesIcon": "✦",
+    "contactTitle": "Contact",
+    "contactDesc": "WhatsApp, Email, Instagram",
+    "contactIcon": "💬"
+  },
+  "featured": {
+    "sectionLabel": "Featured",
+    "title": "Popular",
+    "titleHighlight": "Regions",
+    "viewAll": "View All 7 Modules →"
+  }
+}

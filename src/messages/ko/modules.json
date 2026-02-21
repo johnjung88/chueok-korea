@@ -1,0 +1,37 @@
+{
+  "list": {
+    "label": "탐색할 7개 지역",
+    "title": "투어",
+    "titleHighlight": "모듈",
+    "description": "각 모듈은 2박 3일로 구성되어 있으며, 해당 지역의 핵심 경험만을 엄선했습니다. 원하는 모듈을 자유롭게 골라 조합하면 나만의 완벽한 한국 여행이 완성됩니다.",
+    "exploreJeju": "제주 탐색 →"
+  },
+  "detail": {
+    "dayByDay": "일자별",
+    "yourItinerary": "일정",
+    "itinerarySub": "일정 상세",
+    "day": "{number}일차",
+    "attractionsLabel": "주요 명소",
+    "attractionsTitle": "이 지역의 관광 명소",
+    "tasteOfKorea": "한국의 맛",
+    "foodGuide": "맛집 가이드",
+    "foodSub": "현지 맛집 가이드",
+    "gettingThere": "이동 방법",
+    "transportInfo": "교통 정보",
+    "transportSub": "교통 정보",
+    "travelTipsNotes": "여행 팁 & 참고사항",
+    "keepExploring": "더 탐색하기",
+    "exploreMoreRegions": "더 많은 지역 탐색",
+    "exploreMoreSub": "다른 지역 탐색하기",
+    "readyToTravel": "여행 준비 되셨나요?",
+    "readyToExplore": "탐색할 준비가 되셨나요",
+    "experienceBeauty": "의 아름다움을 함께 경험하세요",
+    "startingFrom": "시작가",
+    "perPersonGroup20": "20인 이상 그룹 1인 기준.",
+    "across": "지역:",
+    "socialProof": "스리랑카 가족 & 친구를 위한 맞춤 · 전 일정 가이드 · 맞춤 그룹 규모",
+    "pax4": "4인",
+    "pax20": "20인+",
+    "fromGroup20": "20인 이상 기준"
+  }
+}

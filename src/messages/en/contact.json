@@ -1,0 +1,30 @@
+{
+  "header": {
+    "label": "Get In Touch",
+    "title1": "Ready to Plan",
+    "title2": "Your Korea Trip?",
+    "description": "Whether you have 5 travellers or 50, we'll craft the perfect modular itinerary for your group."
+  },
+  "channels": {
+    "whatsappTitle": "WhatsApp Chat",
+    "whatsappDesc": "Fastest response · Available 7am–11pm · Chat instantly",
+    "emailTitle": "Email Us",
+    "emailDesc": "hello@chueokkorea.com · We reply within 24 hours",
+    "instagramTitle": "Instagram",
+    "instagramDesc": "@chueokkorea · Travel inspiration daily"
+  },
+  "info": {
+    "responseTimeLabel": "Response Time",
+    "responseTimeValue": "< 1 hour",
+    "responseTimeSub": "during business hours",
+    "groupSizeLabel": "Min. Group Size",
+    "groupSizeValue": "5 pax",
+    "groupSizeSub": "larger groups = better rates",
+    "supportLabel": "Support",
+    "supportValue": "24/7",
+    "supportSub": "WhatsApp during tours"
+  },
+  "cta": {
+    "koreanText": "지금 바로 연락하세요"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "list": {
+    "label": "7 Regions to Explore",
+    "title": "Tour",
+    "titleHighlight": "Modules",
+    "description": "Each module is 2 nights and 3 days, carefully curated around the best that region has to offer. Choose the modules you love, combine them freely, and craft your perfect Korean journey.",
+    "exploreJeju": "Explore Jeju →"
+  },
+  "detail": {
+    "dayByDay": "Day by Day",
+    "yourItinerary": "Your Itinerary",
+    "itinerarySub": "일정 상세",
+    "day": "Day {number}",
+    "attractionsLabel": "Highlights",
+    "attractionsTitle": "Tourist Attractions of This Region",
+    "tasteOfKorea": "Taste of Korea",
+    "foodGuide": "Food Guide",
+    "foodSub": "현지 맛집 가이드",
+    "gettingThere": "Getting There",
+    "transportInfo": "Transport Info",
+    "transportSub": "교통 정보",
+    "travelTipsNotes": "Travel Tips & Notes",
+    "keepExploring": "Keep Exploring",
+    "exploreMoreRegions": "Explore More Regions",
+    "exploreMoreSub": "다른 지역 탐색하기",
+    "readyToTravel": "Ready to Travel?",
+    "readyToExplore": "Ready to explore",
+    "experienceBeauty": "의 아름다움을 함께 경험하세요",
+    "startingFrom": "Starting from",
+    "perPersonGroup20": "per person for groups of 20+.",
+    "across": "across",
+    "socialProof": "Curated for Sri Lankan families & friends · Fully guided · Custom group sizes",
+    "pax4": "4인",
+    "pax20": "20인+",
+    "fromGroup20": "From (group 20+)"
+  }
+}
